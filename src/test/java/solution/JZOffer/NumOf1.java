@@ -1,4 +1,4 @@
-package solution;
+package solution.JZOffer;
 
 /**
  * Created by mercop on 2017/7/4.

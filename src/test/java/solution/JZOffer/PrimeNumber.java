@@ -1,4 +1,4 @@
-package solution;
+package solution.JZOffer;
 
 import java.util.ArrayList;
 

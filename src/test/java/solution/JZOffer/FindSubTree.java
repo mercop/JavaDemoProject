@@ -1,9 +1,6 @@
-package solution;
+package solution.JZOffer;
 
 import org.junit.Test;
-import sun.reflect.generics.tree.Tree;
-
-import java.util.List;
 
 /**
  * Created by mercop on 2017/7/5.
